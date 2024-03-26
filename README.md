@@ -8,3 +8,4 @@
 ### 네트워크 
 - [쿠키, 세션, JWT (feat. 캐시, 토큰)](https://papercolor.notion.site/JWT-ft-8173d5fd13f44c11a63ca74c403a526c)
 - [세션 기반 인증 VS 토큰 기반 인가](https://papercolor.notion.site/VS-83a26812c84d4fc69a89199a95810fc5?pvs=4)
+- [OSI 7 계층](https://www.notion.so/papercolor/OSI-7-e734c1c91a594a73a11a4c44179b413d?pvs=4)
